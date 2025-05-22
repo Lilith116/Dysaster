@@ -4,7 +4,9 @@
 
 # Dysaster Remake
 
-[![Unity](https://img.shields.io/badge/Unity-2022-purple.svg)](https://godotengine.org/)
+[![Unity](https://img.shields.io/badge/Unity-2022.3-red.svg)](https://unity.com/)
+[![Ink](https://img.shields.io/badge/Ink-1.2.1-yellow.svg)](https://www.inklestudios.com/ink/)
+[![Ink-Fungus-Gateway](https://img.shields.io/badge/Ink--Fungus-Gateway-blue.svg)](https://assetstore.unity.com/packages/tools/integration/ink-fungus-gateway-168147)
 
 ¡Prepara tus mejores decisiones mientras haces todo por salir con vida!
 
@@ -100,6 +102,7 @@ Para la versión de desarrollo se necesita el motor de creación de videojuegos 
 
 - [Unity](https://unity.com/) - Motor para crear videojuegos.
 - [Ink](https://www.inklestudios.com/ink/) - Lenguaje de narración de guiones para juegos.
+- [Ink-Fungus Gateway](https://maurovanetti.itch.io/ifg) - Herramienta para crear juegos narrativos.
 
 ## :musical_score: Banda Sonora  <a name = "soundtrack"></a>
 
