@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/InkFungus/Documentation/Interactive Documentation.unity
     guid: 8c920e91be9f3c94cbfc7ddebc9edeb8
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f8dc6f8ae2d30594f945e72806d2fa5e
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: dcfeaaad3940cb24eac873a0efb6524f
   m_configObjects: {}
